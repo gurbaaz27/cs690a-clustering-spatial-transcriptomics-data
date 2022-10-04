@@ -1,0 +1,14 @@
+scanpy 
+numpy 
+scipy
+pandas 
+scikit-learn 
+statsmodels 
+pynndescent
+matplotlib
+scvi
+scvi-tools
+scib
+pymde
+tf
+tensorflow

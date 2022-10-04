@@ -1,3 +1,6 @@
+histology.tif
+*.h5
+*.h5ad
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
