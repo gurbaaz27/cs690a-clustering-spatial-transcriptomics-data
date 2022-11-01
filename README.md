@@ -1,5 +1,7 @@
 # cs690a assignment
 
+the assignment question can be found in `assets/` folder
+
 ### table of content
 
 - [team](#team)
